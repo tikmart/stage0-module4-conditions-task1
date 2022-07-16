@@ -7,11 +7,11 @@ public class PositiveNumberDetermainer {
 
         if (numberToBeDetermined > 0){
 
-            System.out.println("True");
+            System.out.println("true");
         }
 
         else {
-            System.out.println("False");
+            System.out.println("false");
         }
 
     }
